@@ -1,0 +1,23 @@
+= Smart Sanitize
+
+Smart Ruby HTML & CSS sanitizator 
+
+== Installation
+
+The gem is hosted on gemcutter, so if you haven’t already, add it as a gem source:
+
+  sudo gem sources -a http://gemcutter.org/
+
+Then install the Formtastic gem:
+
+  sudo gem install pluralize
+
+== Config
+
+== Usage
+
+== Author
+
+Marcin Ciunelis marcin.ciunelis@gmail.com
+
+Copyright (c) 2009 G-Forces Polska, released under the MIT license
